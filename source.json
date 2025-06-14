@@ -11,7 +11,7 @@
     {
       "name": "UNDERTALE",
       "bundleIdentifier": "com.jockeholm.undertale",
-      "marketplaceID": "",
+      "marketplaceID": "0",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
