@@ -1,0 +1,42 @@
+"featuredApps": [
+],
+"apps": [
+{
+"name": "UNDERTALE",
+"bundleIdentifier": "com.jockeholm.undertale",
+"marketplaceID": "",
+"developerName": "Example Developer",
+"subtitle": "An awesome app.",
+"localizedDescription": "This is an awesome app only available on AltStore.",
+"iconURL": undefined,
+"tintColor": "#6156e2",
+"category": "other",
+"screenshots": [
+],
+"versions": [
+{
+"downloadURL": "https://drive.usercontent.google.com/download?id=12csFhXzzaBRqqwJIeOxQnvLpdTDZE3vg&export=download&authuser=0&confirm=t&uuid=48bc3345-e999-48f6-b3e5-19a2a3c38d3a&at=AN8xHorxYP2JOKNP5cZIFXluSKOT:1749889274858",
+"size": 140600000,
+"version": "2.0.0",
+"buildVersion": null,
+"date": "2025-06-14T08:18:00+02:00",
+"localizedDescription": null,
+"minOSVersion": null
+}
+],
+"appPermissions": {
+"entitlements": [
+],
+"privacy": {
+"NSMainNibFile": "MainWindow-iPhone",
+"NSMainNibFile~ipad": "MainWindow",
+"NSMainNibFile~iphone": "MainWindow-iPhone"
+}
+},
+"patreon": {
+}
+}
+],
+"news": [
+]
+}
